@@ -4,7 +4,7 @@ LetsDefend challenge requiring the use of WireShark to analyse a pcap file to ga
 
 # Analysis
 
-The first step is to connect to the LetsDefend lab environment and open the pcap file in WIreShark.
+The first step is to connect to the LetsDefend lab environment and open the pcap file in WireShark.
 
 ![image](/assets/images/wireshark01.png)
 
